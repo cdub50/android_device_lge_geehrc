@@ -39,4 +39,5 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PROPERTY_OVERRIDES += \
     telephony.lteOnCdmaDevice=1 \
     ro.telephony.default_network=9 \
-    ro.ril.def.preferred.network=9
+    ro.ril.def.preferred.network=9 \
+    otaupdater.otaid=liquidgeehrc
